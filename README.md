@@ -1,18 +1,24 @@
 # Steps to run the project
 
-# open cmd in current directory
 
-# To install backend
-1) cd backend
-2) npm i
-3) cd ..
+## To install backend
+<ul>
+<li>cd backend</li>
+<li>npm i</li>
+<li>cd ..</li>
+</ul>
 
-# To install frontend
-1) cd frontend
-2) npm i
-3) npm run build
-4) cd ..
+## To install frontend
+<ul>
+<li>cd frontend</li>
+<li>npm i</li>
+<li>npm run build</li>
+<li>cd ..</li>
+</ul>
 
-# To run the project
-npm start
+## To run the project
+<ul>
+<li>npm start</li>
+</ul>
+
 
